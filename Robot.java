@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Robot extends Actor
 {
     
-    private static final int HSPEED = 3;
+    private static final int HSPEED = 4;
     private static final int VSPEED = 25;
     private static ArrayList<Robot> robotList = new ArrayList<Robot>();
     
